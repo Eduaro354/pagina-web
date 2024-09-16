@@ -1,0 +1,30 @@
+body {
+    background: black;
+    color: purple;
+    margin: 0px;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 50px;
+}
+section{
+    background:rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content:center;
+}
+.titulo-video{
+    margin-right: 5%;
+    font-size: 15px;
+}
+img{
+    height:200px;
+}
+.categoria-video {
+    display:flex;
+    overflow-x:auto;
+}
